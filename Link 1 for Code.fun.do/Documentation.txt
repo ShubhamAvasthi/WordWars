@@ -1,0 +1,9 @@
+Documentation :-
+
+The game was designed by Visual Studio Community 2015 using C# and XAML.
+The game features a rich adaptive interface to seemlessly fit any screen size.
+There are two pages in the game i.e. the FirstPage and the MainPage.
+It starts from the FirstPage when the game is launched unlike a common C# application which generally starts from the MainPage and uses Frame.Navigate() method to navigate to the other page.
+It is also programmed to randomly select alphabets while simultaneously considering the frequency of each letter in the English language by using a developer-defined frequency array.
+The game is event-oriented and considers events like the loading of a page, button click, Drag_Starting, Drag_Over, Drop etc. It uses a Drag & Drop interface which allows users to easily grab characters from the character grid onto the game grid.
+Moreover, the app features a beautiful UI, which is appealing to the eye.                                                                                                                                                                                                                 
